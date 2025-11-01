@@ -30,7 +30,7 @@ Essa combinação me permite unir **estratégia, análise e inovação tecnológ
 ## 💼 Experiência Profissional  
 
 ### 🧩 Coordenador Administrativo / Desenvolvedor Júnior  
-**Jul 2017 – Atual | [Instituição/Empresa]**  
+**Jul 2017 – Atual | IEAD**  
 - Suporte direto à Diretoria em assuntos administrativos e estratégicos.  
 - Desenvolvimento de sistemas em **Python** voltados à área de **Data Science**.  
 - Organização documental e gestão de arquivos.  
@@ -58,10 +58,10 @@ Essa combinação me permite unir **estratégia, análise e inovação tecnológ
 ## 🎓 Formação Acadêmica  
 
 - **🎓 Mestrado em Negócios Internacionais**  
-  [Instituição não informada] — *Foco em gestão global*  
+  [Esmac] — *Foco em gestão global*  
 
 - **🎓 Graduação em Administração de Empresas**  
-  [Instituição não informada] — *Base estratégica e analítica*  
+  [Uniso Universidade de Sorocaba] — *Base estratégica e analítica*  
 
 - **💻 Bacharelado em Engenharia de Computação (Software)**  
   *Universidade Cruzeiro do Sul* — 2024–2027 *(Em curso)*  
