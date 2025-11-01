@@ -92,9 +92,9 @@ Essa combinação me permite unir **estratégia, análise e inovação tecnológ
 
 ## 📫 Contato  
 
-- **Email:** [adicione seu email aqui]  
-- **LinkedIn:** [adicione seu perfil aqui]  
-- **GitHub:** [github.com/seuusuario]  
+- **Email:** [jravicencontato@gmail.com]  
+- **LinkedIn:** [João Rafael]  
+- **GitHub:** [github.com/raphaserv]  
 
 ---
 
